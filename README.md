@@ -5,5 +5,4 @@
 - 💬 Ask me about *Tailwind css, Material Ui JavaScript, React, Nextjs, Java* 
 - 📫 How to reach me <sardornarzikulov2002@gmail.com>
 
-## Connect with me:
 
